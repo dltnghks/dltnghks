@@ -21,21 +21,6 @@
 
 ---
 
-### 🚀 프로젝트
-
-| 프로젝트 | 설명 | 언어 | 생성일 |
-|---|---|---|---|
-| **[cpp-project](https://github.com/dltnghks/cpp-project)** | 대학교 C++ 프로젝트 | C++ | 2022-10 |
-| **[ProjectServer](https://github.com/dltnghks/ProjectServer)** | 서버 프로그래밍 | C | 2022-11 |
-| **[LevelDesignANN](https://github.com/dltnghks/LevelDesignANN)** | 인공신경망을 이용한 플레이어 맞춤형 게임 환경 제공 | C# | 2023-02 |
-| **[GameDataStructure](https://github.com/dltnghks/GameDataStructure)** | 게임 자료구조 | C | 2023-02 |
-| **[DB_Website](https://github.com/dltnghks/DB_Website)** | 콘텐츠 서비스 개발 2 | - | 2023-04 |
-| **[ContentServiceDevelop2](https://github.com/dltnghks/ContentServiceDevelop2)** | PHP를 사용한 콘텐츠 서비스 개발 2 | PHP | 2023-05 |
-
----
-
----
-
 ### 📊 GitHub 통계
 
 <div align="center">
